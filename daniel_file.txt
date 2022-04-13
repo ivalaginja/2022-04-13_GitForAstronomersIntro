@@ -1,0 +1,4 @@
+This is my super file which I'm contributing to well-being of mankind.
+Please feel free to use this file.
+
+@GPL v3
